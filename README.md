@@ -1,14 +1,27 @@
 <h2>Hello! I'm Breno 👋😀</h2>
 
+<ul>
+<li>Full stack developer under construction.</li>
+</ul>
 <div>
   <a href="https://github.com/breno-aredes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=breno-aredes&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-aredes&layout=compact&langs_count=7"/>
 </div>
 
+<!-- badges -->
+  <h3>Skills</h3>
+  
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ <span><em>coming soon...</em></span>
+ 
 <!-- Snake eating my contribuition graph -->
 ![snake gif](https://github.com/breno-aredes/breno-aredes/blob/output/github-contribution-grid-snake.gif)
 
+ 
+	
 <!--
 **breno-aredes/breno-aredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
