@@ -2,6 +2,7 @@
 
 <ul>
 <li>Full stack developer under construction.</li>
+<li>I am currently studying REACT</li>
 </ul>
 <div>
   <a href="https://github.com/breno-aredes">
