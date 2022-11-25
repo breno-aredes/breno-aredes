@@ -20,6 +20,8 @@
  <p><em>coming soon...</em></p>
 	
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 
  
 <!-- Snake eating my contribuition graph -->
