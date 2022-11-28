@@ -10,7 +10,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-aredes&layout=compact&langs_count=7"/>
 </div>
 	
-	
 <!-- badges -->
   <h3>Skills</h3>
   
