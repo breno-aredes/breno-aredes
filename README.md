@@ -4,22 +4,25 @@
 <li>Full stack developer under construction.</li>
 <li>I am currently studying REACT</li>
 </ul>
-<div>
-  <a href="https://github.com/breno-aredes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=breno-aredes&show_icons=true&include_all_commits=true&count_private=true"/>
+
+  ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-aredes&show_icons=true&theme=transparent)
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-aredes&layout=compact&langs_count=7"/>
-</div>
+
+
 	
 <!-- badges -->
   <h3>Skills</h3>
   
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+
  <p><em>coming soon...</em></p>
+	
 	
 
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
