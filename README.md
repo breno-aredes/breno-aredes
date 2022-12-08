@@ -6,9 +6,7 @@
 </ul>
 
   ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-aredes&show_icons=true&theme=transparent)
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-aredes&layout=compact&langs_count=7"/>
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-aredes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 <!-- badges -->
