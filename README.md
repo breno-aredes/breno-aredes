@@ -8,7 +8,7 @@
 
 <h3>GitHub Stats:</h3>
 <div align="center" >
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=breno-aredes&show_icons=true&hide_title=tru&line_height=20&theme=transparent" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-aredes&layout=compact&theme=transparent" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=breno-aredes&show_icons=true&hide_title=tru&line_height=20&theme=transparent" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-aredes&layout=compact&theme=transparent" />
 </div>
 	
 <!-- badges -->
