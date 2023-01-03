@@ -2,7 +2,7 @@
 
 <ul>
 <li>Full stack developer under construction.</li>
-<li>I am currently studying Back-end applications</li>
+<li>I am currently studying BACK-END APPLICATIONS</li>
 </ul>
 
 
