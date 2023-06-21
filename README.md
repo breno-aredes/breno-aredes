@@ -1,8 +1,8 @@
 <h2>Hello! I'm Breno 👋😀</h2>
 
 <ul>
-<li>Full stack developer under construction.</li>
-<li>I am currently studying BACK-END APPLICATIONS</li>
+<li>Full stack developer</li>
+
 </ul>
 
 
