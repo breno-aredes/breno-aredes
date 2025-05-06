@@ -49,7 +49,9 @@
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
 
 
 <!--
